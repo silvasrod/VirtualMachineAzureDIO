@@ -25,10 +25,6 @@ Aplicar os conhecimentos adquiridos no curso, praticando a criação e configura
 - Configure regras de firewall corretamente
 - Faça snapshots regulares para backup
 
-## Problemas e Soluções
-- Problema: Porta SSH bloqueada.
-- Solução: Configurar NSG (Network Security Group) para liberar porta 22.
-
 ## Conclusão
 Experiência enriquecedora, consolidando o aprendizado sobre infraestrutura em nuvem.
 
